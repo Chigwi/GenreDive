@@ -10,5 +10,4 @@ public class GenreDiveApplication {
 		SpringApplication.run(GenreDiveApplication.class, args);
 	}
 
-	
 }
